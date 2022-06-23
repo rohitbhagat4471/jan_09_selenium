@@ -1,0 +1,10 @@
+; This is Chrome file upload code
+WinWaitActive("Open")
+Sleep(2000)
+Send("F:\Acceleration\Jan_9_Selenium\AutoitFiles\TestFile.txt")
+Sleep(2000)
+Send ("{TAB}")
+Sleep(2000)
+Send ("{TAB}")
+Sleep(2000)
+Send ("{ENTER}")
