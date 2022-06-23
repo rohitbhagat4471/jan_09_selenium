@@ -42,7 +42,7 @@ public class BrokenLinks {
 				System.out.println(url+" - is valid");
 			}
 
-
+// just change for git hub practice
 		}
 
 
