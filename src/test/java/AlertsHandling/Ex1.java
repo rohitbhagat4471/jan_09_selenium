@@ -18,6 +18,7 @@ public class Ex1 {
 		alt.accept();// for click on yes, accept and ok 
 	//	alt.dismiss();
 	 	
+	 	
 	}
 
 }
